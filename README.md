@@ -4,38 +4,26 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-I started working with computers and especially graphics when I was about 17 years old. I have worked with many Adobe software and I have a relatively good command. Around 2018, my friends and I launched a start-up in the field of villa rental, and at the same time, I went to product design. But due to the lack of knowledge and the existence of a gap between programmers and graphic designers, I had to start programming myself. During this time, which was about 3-4 years since I started my career in the field of programming, I was able to manage successful projects and make good progress. The main focus of the software development I did was on the web, but I also had several versions of the application. I am currently working in a company as the head of the front development team, but I feel the need to face bigger challenges.
+##Senior Frontend Engineer & Team Leader | React.js | Next.js | TypeScript | Enterprise Architecture
 
-- I’m a creative, big-picture thinker obsessed with crafting the details.
-- I’m personable and an energic collaborator motivated to inspire.
-- I’m ambitious, delivery-focused, diplomatic & adaptable to the task.
-- I have a deep sense of empathy, which fuels my passion to craft honest, inclusive, and meaningful experiences for people.
-- I’m strong at communicating design intent-verbally and visually.
-- I embrace experimentation and I’m not afraid to be wrong.
+I am a results-driven Senior Frontend Engineer with 6+ years of experience in building high-performance, scalable web applications. My expertise spans enterprise-level frontend architecture, modern React ecosystems (Next.js, React Query, Zustand), and design-system engineering, with a strong focus on performance optimization, accessibility, and maintainability.
+Currently, as a Senior Frontend Engineer at Kavenegar, I lead large-scale frontend initiatives—migrating legacy systems to Next.js 15, architecting a comprehensive design system (Radix-UI, ShadCN), and integrating Playwright/Vitest for automated testing—resulting in measurable improvements in performance, developer efficiency, and cross-team collaboration.
+Prior to this, I served as a Team Leader, mentoring developers, enforcing best practices, and driving project delivery through agile methodologies (Scrum, Jira). My leadership reduced redundancy by standardizing reusable components and fostering design-to-development alignment.
 
-My Skills:
+###Key Strengths
+- Technical Leadership: Proven ability to architect, optimize, and scale frontend infrastructures for high-traffic applications (300% performance gains at BuyLine via code-splitting, lazy loading).
+- Full-Cycle Ownership: From UI/UX design (former graphic design background) to CI/CD pipelines (Docker, GitHub Actions), I bridge gaps between design, product, and engineering.
+- Cutting-Edge Tools: Deep expertise in React.js, Next.js, TypeScript, React Query, Zustand, Tailwind CSS, and testing frameworks (Vitest, Playwright).
+- Collaborative Mindset: Passionate about mentoring teams, advocating for clean code, and streamlining workflows through design systems and automation.
 
----> DEVELOPMENT <---
-- React.js
-- Redux
-- React Native
-- Next.js
-- React router
-- React navigation
-- Rest APIs
-- React Hooks
-- Git
-- NPM
-- MUI
-- Bootstrap
-- TypeScript
+###Career Philosophy
+- User-Centric: Empathy-driven approach to crafting inclusive, intuitive experiences.
+- Detail-Oriented: Obsessed with performance metrics, accessibility, and pixel-perfect execution.
+- Adaptable Innovator: Thrive in dynamic environments, solving complex problems with scalable, future-proof solutions.
 
----> PROJECT <---
-* Scrum
-* Jira
-* Team management
+###Let’s connect if you’re looking for:
+- A hands-on technical leader for frontend teams.
+- Expertise in migrating legacy systems to modern stacks.
+- A design-system advocate who unifies UI/UX and engineering.
 
----> DESIGN <---
-. User interface design
-. Logo design
-. Icon design
+Open to global opportunities and ambitious challenges.
