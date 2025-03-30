@@ -21,7 +21,7 @@ Prior to this, I served as a Team Leader, mentoring developers, enforcing best p
 - Detail-Oriented: Obsessed with performance metrics, accessibility, and pixel-perfect execution.
 - Adaptable Innovator: Thrive in dynamic environments, solving complex problems with scalable, future-proof solutions.
 
-###Let’s connect if you’re looking for:
+### Let’s connect if you’re looking for:
 - A hands-on technical leader for frontend teams.
 - Expertise in migrating legacy systems to modern stacks.
 - A design-system advocate who unifies UI/UX and engineering.
